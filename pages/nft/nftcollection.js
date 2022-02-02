@@ -4,7 +4,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Web3Modal from "web3modal";
 import { abi, NFT_CONTRACT_ADDRESS } from "../../constants/nftcollection";
 import styles from "../../styles/Home_nftcollection.module.css";
-import Image_src from "../../public/crypto-devs.svg";
+import Image_src from "../../public/nftcollection.svg";
 import Image from "next/image"
 
 export default function Home() {
